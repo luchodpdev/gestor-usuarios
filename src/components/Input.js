@@ -1,3 +1,5 @@
+import './Input.css'
+
 const Input = ({ label, ...rest}) => {
     return (
         <div className='field'>
